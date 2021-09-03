@@ -10,7 +10,7 @@ public class AbsMthd extends AbsMthd1 {
 		System.out.println("run");
 	}
 
-//demo project
+//demo p
 
 	public static void main(String[] args) {
 		/*AbsMthd ab = new AbsMthd();
