@@ -9,7 +9,7 @@ public class AbsMthd extends AbsMthd1 {
 	public void run() {
 		System.out.println("run");
 	}
-//demo project
+//demo jkhlkjg
 	public static void main(String[] args) {
 		/*AbsMthd ab = new AbsMthd();
 		ab.disp();
